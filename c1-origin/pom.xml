@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.tiki</groupId>
-    <artifactId>springbootway</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <artifactId>c1-origin</artifactId>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
 
-    <name>springbootway</name>
+    <name>c1-origin</name>
     <description>SpringBoot Learning Way</description>
 
     <parent>
